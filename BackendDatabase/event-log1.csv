@@ -1,0 +1,157 @@
+DeviceID	TimeStamp	DeviceType	CurrentStatus
+Machine3	2015-04-09 10:47:51.508	Sensor	Door is Open	
+Machine2	2015-04-09 10:50:31.955	Sensor	Motion exists	
+Machine2	2015-04-09 10:50:41.966	Sensor	Motion exists	
+Machine2	2015-04-09 10:50:51.982	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:02.004	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:12.014	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:22.028	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:32.039	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:42.051	Sensor	Motion exists	
+Machine2	2015-04-09 10:51:52.061	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:02.075	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:12.087	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:22.099	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:32.109	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:42.123	Sensor	Motion exists	
+Machine2	2015-04-09 10:52:52.139	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:02.154	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:12.166	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:22.174	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:32.187	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:42.197	Sensor	Motion exists	
+Machine2	2015-04-09 10:53:52.21	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:02.223	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:12.236	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:22.249	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:32.26	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:42.27	Sensor	Motion exists	
+Machine2	2015-04-09 10:54:52.28	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:02.289	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:12.302	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:22.311	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:32.322	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:42.333	Sensor	Motion exists	
+Machine2	2015-04-09 10:55:52.345	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:02.356	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:12.367	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:22.382	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:32.393	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:42.404	Sensor	Motion exists	
+Machine2	2015-04-09 10:56:52.416	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:02.43	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:12.44	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:22.452	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:32.462	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:42.475	Sensor	Motion exists	
+Machine2	2015-04-09 10:57:52.486	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:02.501	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:12.51	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:22.523	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:32.531	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:42.538	Sensor	Motion exists	
+Machine2	2015-04-09 10:58:52.552	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:02.564	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:12.57	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:22.579	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:32.59	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:42.6	Sensor	Motion exists	
+Machine2	2015-04-09 10:59:52.614	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:02.628	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:12.642	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:22.652	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:32.665	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:42.675	Sensor	Motion exists	
+Machine2	2015-04-09 11:00:52.683	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:02.696	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:12.704	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:22.715	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:32.729	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:42.738	Sensor	Motion exists	
+Machine2	2015-04-09 11:01:52.75	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:02.759	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:12.768	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:22.777	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:32.79	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:42.802	Sensor	Motion exists	
+Machine2	2015-04-09 11:02:52.809	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:02.822	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:12.833	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:22.842	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:32.851	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:42.86	Sensor	Motion exists	
+Machine2	2015-04-09 11:03:52.87	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:02.881	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:12.889	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:22.9	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:32.913	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:42.922	Sensor	Motion exists	
+Machine2	2015-04-09 11:04:52.935	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:02.945	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:12.956	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:22.964	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:32.973	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:42.983	Sensor	Motion exists	
+Machine2	2015-04-09 11:05:52.993	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:03.003	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:13.016	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:23.027	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:33.038	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:43.049	Sensor	Motion exists	
+Machine2	2015-04-09 11:06:53.056	Sensor	Motion exists	
+Machine2	2015-04-09 11:07:03.068	Sensor	Motion exists	
+Machine2	2015-04-09 11:07:13.079	Sensor	Motion exists	
+Machine2	2015-04-09 11:07:23.091	Sensor	Motion exists	
+Machine2	2015-04-09 11:07:33.099	Sensor	Motion exists	
+Machine2	2015-04-09 11:07:43.113	Sensor	Motion exists	
+Machine3	2015-04-09 11:15:21.436	Sensor	Door is Open	
+Machine2	2015-04-09 11:35:12.377	Sensor	Motion exists	
+Machine2	2015-04-09 11:35:13.309	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:14.806	Sensor	User Away from Home	
+Machine2	2015-04-09 11:35:15.309	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:15.806	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:16.807	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:17.808	Sensor	User Present in Home	
+Machine2	2015-04-09 11:35:18.31	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:18.809	Sensor	User Present in Home	
+Machine4	2015-04-09 11:35:19.81	Sensor	User Present in Home	
+Machine2	2015-04-09 11:35:20.316	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:20.811	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:21.812	Sensor	User Away from Home	
+Machine2	2015-04-09 11:35:22.313	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:22.813	Sensor	User Present in Home	
+Machine4	2015-04-09 11:35:23.815	Sensor	User Present in Home	
+Machine2	2015-04-09 11:35:24.318	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:24.815	Sensor	User Present in Home	
+Machine2	2015-04-09 11:35:25.319	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:25.816	Sensor	User Away from Home	
+Machine2	2015-04-09 11:35:26.319	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:26.819	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:27.818	Sensor	User Away from Home	
+Machine2	2015-04-09 11:35:28.324	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:28.819	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:29.821	Sensor	User Present in Home	
+Machine2	2015-04-09 11:35:30.322	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:30.821	Sensor	User Away from Home	
+Machine2	2015-04-09 11:35:31.324	Sensor	Motion exists	
+Machine4	2015-04-09 11:35:31.822	Sensor	User Present in Home	
+Machine4	2015-04-09 11:35:32.823	Sensor	User Away from Home	
+Machine4	2015-04-09 11:35:33.824	Sensor	User Present in Home	
+Machine1	2015-05-06 02:19:05.338	Sensor	Temerature is1	
+Machine1	2015-05-06 02:19:08.88	Sensor	Temerature is1	
+Machine1	2015-05-06 02:19:15.826	Sensor	Temerature is0	
+Machine1	2015-05-06 02:19:17.751	Sensor	Temerature is0	
+Machine1	2015-05-06 02:19:18.864	Sensor	Temerature is1	
+Machine1	2015-05-06 02:19:21.153	Sensor	Temerature is1	
+Machine1	2015-05-06 02:19:22.649	Sensor	Temerature is0	
+Machine1	2015-05-06 02:19:24.723	Sensor	Temerature is1	
+Machine1	2015-05-06 02:29:02.285	Sensor	Temerature is2	
+Machine1	2015-05-06 02:29:05.395	Sensor	Temerature is1	
+Machine6	2015-05-06 02:36:04.042	Device	Heater is OFF	
+Machine6	2015-05-06 02:37:34.411	Device	Heater is OFF	
+Machine6	2015-05-06 02:39:30.766	Device	Heater is OFF	
+Machine6	2015-05-06 02:39:35.65	Device	Heater is OFF	
+Machine1	2015-05-06 02:40:24.536	Sensor	Temerature is12	
+Machine6	2015-05-06 02:40:57.706	Device	Heater is OFF	
+Machine6	2015-05-06 02:41:19.591	Device	Heater is OFF	
+Machine6	2015-05-06 03:21:33.234	Device	Heater is OFF	
